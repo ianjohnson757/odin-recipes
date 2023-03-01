@@ -1,7 +1,7 @@
 About
 
 
-	I started working on The Odin Project about two weeks ago. So far im enjoying everything about it. The way this course was put together is extremely helpful for someone like me with zero experience in this field. I'm very excited to pursue my interest in coding. With me being a hands on learner The Odin Project has given me the opportunity to jump in hands on with no cost. Im not even halfway through and im hooked. In no way is this easy but im looking forward to this journey.
+	I started working on The Odin Project about two weeks ago. So far im enjoying everything about it. The way this course was put together is extremely helpful for someone like me with zero experience in this field. I'm very excited to pursue my interest in coding. With me being a hands on learner The Odin Project has given me the opportunity to jump in hands on with no cost. I'm not even halfway through and I'm hooked. In no way is this easy but I'm looking forward to this journey.
 
 
 	
@@ -13,5 +13,5 @@ About
 
 	
 
-	I just finished the HTML portion of this project. I encountered lots of issues with linking files, certain codes, and structures. This was a wonderful learning experience. I feel so much more comfortable already and I’m looking forward to the next chapter.
+	I just finished the HTML portion of this project. I encountered lots of issues with linking files, certain codes, and structures. This was a wonderful learning experience. I feel so much more comfortable already and I'm looking forward to the next chapter.
 
